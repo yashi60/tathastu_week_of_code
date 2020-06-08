@@ -1,0 +1,5 @@
+print(input("NAME- "))
+print(input("Branch- "))
+print(input("Gender- "))
+print(input("Roll no.- "))
+print(input("College- "))
